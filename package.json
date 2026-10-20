@@ -1,0 +1,14 @@
+{
+  "name": "raunak-singh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio for Raunak Singh. No runtime dependencies.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs && node scripts/check.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "resume": "python3 tools/resume/build_all.py"
+  },
+  "engines": { "node": ">=18" }
+}
