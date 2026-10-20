@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.DS_Store
+tools/resume/photo_round.png
+__pycache__/
+.env
+.env.*
