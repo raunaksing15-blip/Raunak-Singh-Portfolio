@@ -1,0 +1,110 @@
+{
+  "name": "Raunak Singh",
+  "title": "B.Tech Student | Software Developer",
+  "email": "raunaksinghpilania@gmail.com",
+  "github": "https://github.com/raunaksing15-blip",
+  "linkedin": "https://www.linkedin.com/in/raunak-singh-923298387",
+  "x": "https://x.com/raunaksingh",
+  "summary": "Second-year B.Tech student building web applications with AI features. Hands-on with the Google Gemini API, JavaScript and Python, and currently learning Rust. Seeking open-source programs and AI-application internships.",
+  "education": {
+    "school": "Bharati Vidyapeeth's College of Engineering, New Delhi",
+    "degree": "Bachelor of Technology (B.Tech.), second year",
+    "dates": "Expected 2029",
+    "note": "Class 10: 87%  |  Class 12: 82%"
+  },
+  "projects": [
+    {
+      "id": "everyrupee",
+      "name": "EveryRupee",
+      "tag": "AI-assisted personal finance web app (team project)",
+      "dates": "Jan 2026 - Present",
+      "links": [
+        ["GitHub", "https://github.com/raunaksing15-blip/Every-rupee.in"],
+        ["Live demo", "https://everyrupee-psi.vercel.app/edcuation.html"]
+      ],
+      "bullets": [
+        "Addresses low financial literacy and scam awareness among everyday users in India with free, jargon-free tools.",
+        "Built the Financial Education hub in HTML, CSS and JavaScript: eight topics (cards, UPI, net banking, loans, EMI, KYC) plus a glossary.",
+        "Team project spanning planner, tax and investment pages, deployed on Vercel; includes a finance-only assistant on the Google Gemini API, restricted to finance questions.",
+        "MIT-licensed public repository with contributor guidelines and labelled issues for outside contributors."
+      ],
+      "site": {
+        "status": "Team project, in progress",
+        "period": "Since Jan 2026",
+        "problem": "Many people in India learn about loans, cards and UPI scams only after something goes wrong. EveryRupee explains money in plain language, with fraud warnings, and helps people plan. It is free and needs no signup.",
+        "mine": "The Financial Education hub: eight topics (debit and credit cards, net banking, UPI, cheques, loans, EMI and bank documentation), each with fraud warnings, plus a plain-language glossary.",
+        "team": "A multi-step financial planner, tax and investment pages, and a finance-only assistant built on the Google Gemini API and restricted to finance questions.",
+        "stack": ["HTML", "CSS", "JavaScript", "Google Gemini API", "Vercel"],
+        "open": "The repository is MIT-licensed and has a contributor guide and labelled issues for newcomers."
+      }
+    },
+    {
+      "id": "mitti-ai",
+      "name": "Mitti AI",
+      "tag": "AI marketing assistant for clay and terracotta artisans (team project)",
+      "dates": "Mar 2026 - Present",
+      "links": [
+        ["GitHub", "https://github.com/shresthgoel77-png/kari-ghar"],
+        ["Live demo", "https://mittiai.vercel.app/"]
+      ],
+      "bullets": [
+        "Conceived the idea: help artisans without marketing skills present handmade products online.",
+        "Built the AI generation section using the Google Gemini API: a product photo upload produces a description, Instagram caption, SEO keywords and design ideas.",
+        "Team delivered the web interface (landing page, dashboard, idea generator) and deployed it on Vercel."
+      ],
+      "site": {
+        "status": "Team project, in progress",
+        "period": "Since Mar 2026",
+        "problem": "Clay and terracotta artisans make beautiful products but often have no marketing skills to show them online. Mitti AI turns one product photo into the words they need.",
+        "mine": "The idea, and the AI generation section: a product photo goes to the Google Gemini API and comes back as a description, an Instagram caption, SEO keywords and design ideas.",
+        "team": "The web interface: landing page, dashboard and idea generator.",
+        "stack": ["HTML", "CSS", "JavaScript", "Google Gemini API", "Vercel"],
+        "open": ""
+      }
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Techshuttle",
+      "role": "Outreach Head",
+      "dates": "Sep 2025 - Present",
+      "place": "College technical society",
+      "bullets": [
+        "Lead outreach for society events: approached sponsors and invited stalls to college events."
+      ],
+      "site": {
+        "period": "September 2025 to present",
+        "link": ["Society website", "https://techshuttle.vercel.app/"]
+      }
+    }
+  ],
+  "skills": [
+    ["Languages", "Python, JavaScript, HTML, CSS"],
+    ["AI and LLM", "Google Gemini API, prompt engineering"],
+    ["Tools", "Git, GitHub, Vercel"],
+    ["Learning", "Rust, systems programming"]
+  ],
+  "interests": "Open-source programs (Google Summer of Code, Linux Foundation) as a goal; Rust and systems programming; developer tools; practical AI applications.",
+  "site": {
+    "url": "",
+    "headline": "Building AI-assisted web apps, learning Rust, aiming for open source.",
+    "intro": "Second-year B.Tech student at Bharati Vidyapeeth's College of Engineering, New Delhi. I build small web tools with teammates, add AI where it helps, and I'm learning Rust to prepare for open-source work.",
+    "about": [
+      "I study B.Tech at Bharati Vidyapeeth's College of Engineering in New Delhi and graduate in 2029.",
+      "My projects so far are web tools built with teammates: a finance education and planning site, EveryRupee, and a marketing assistant for clay artisans, Mitti AI. Both call the Google Gemini API, and I came up with the Mitti AI idea and built its AI section.",
+      "I also run outreach for Techshuttle, my college's technical society. Right now I'm learning Rust and looking for open-source programs where I can start contributing."
+    ],
+    "skillNotes": {
+      "Learning": "Currently learning. Not yet used in a shipped project."
+    },
+    "openSource": {
+      "lead": "I have not made upstream contributions yet. This is the direction I am working toward.",
+      "points": [
+        "I want to contribute through programs like Google Summer of Code and Linux Foundation mentorships.",
+        "I am learning Rust and systems programming to get ready for projects in that space.",
+        "I already run a public repository the way I'd like to work in: EveryRupee has an MIT licence, a contributor guide and labelled issues."
+      ]
+    },
+    "contactLead": "I am looking for open-source programs and AI-application internships. Email is the fastest way to reach me."
+  }
+}
