@@ -1,0 +1,43 @@
+RAUNAK SINGH
+B.Tech Student | Software Developer
+
+Email: raunaksinghpilania@gmail.com
+GitHub: https://github.com/raunaksing15-blip
+LinkedIn: https://www.linkedin.com/in/raunak-singh-923298387
+X: https://x.com/raunaksingh
+
+SUMMARY
+Second-year B.Tech student building web applications with AI features. Hands-on with the Google Gemini API, JavaScript and Python, and currently learning Rust. Seeking open-source programs and AI-application internships.
+
+EDUCATION
+Bharati Vidyapeeth's College of Engineering, New Delhi - Expected 2029
+Bachelor of Technology (B.Tech.), second year. Class 10: 87%  |  Class 12: 82%
+
+PROJECTS
+EveryRupee - AI-assisted personal finance web app (team project) | Jan 2026 - Present
+  GitHub: https://github.com/raunaksing15-blip/Every-rupee.in
+  Live demo: https://everyrupee-psi.vercel.app/edcuation.html
+  - Addresses low financial literacy and scam awareness among everyday users in India with free, jargon-free tools.
+  - Built the Financial Education hub in HTML, CSS and JavaScript: eight topics (cards, UPI, net banking, loans, EMI, KYC) plus a glossary.
+  - Team project spanning planner, tax and investment pages, deployed on Vercel; includes a finance-only assistant on the Google Gemini API, restricted to finance questions.
+  - MIT-licensed public repository with contributor guidelines and labelled issues for outside contributors.
+
+Mitti AI - AI marketing assistant for clay and terracotta artisans (team project) | Mar 2026 - Present
+  GitHub: https://github.com/shresthgoel77-png/kari-ghar
+  Live demo: https://mittiai.vercel.app/
+  - Conceived the idea: help artisans without marketing skills present handmade products online.
+  - Built the AI generation section using the Google Gemini API: a product photo upload produces a description, Instagram caption, SEO keywords and design ideas.
+  - Team delivered the web interface (landing page, dashboard, idea generator) and deployed it on Vercel.
+
+LEADERSHIP EXPERIENCE
+Outreach Head, Techshuttle (College technical society) | Sep 2025 - Present
+  - Lead outreach for society events: approached sponsors and invited stalls to college events.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, HTML, CSS
+AI and LLM: Google Gemini API, prompt engineering
+Tools: Git, GitHub, Vercel
+Learning: Rust, systems programming
+
+OPEN SOURCE AND INTERESTS
+Open-source programs (Google Summer of Code, Linux Foundation) as a goal; Rust and systems programming; developer tools; practical AI applications.
